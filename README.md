@@ -1,4 +1,4 @@
-# streamlit-waveform-viewer
+# Streamlit Waveform Viewer
 
 ## 使い方
 
